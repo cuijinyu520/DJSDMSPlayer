@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\3a4i5052\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\3a4i5052\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "dms_jni::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "dms_jni",
+      "output": "E:\\Project\\DJSDMSPlayer\\app\\build\\intermediates\\cxx\\Debug\\3a4i5052\\obj\\arm64-v8a\\libdms_jni.so",
+      "runtimeFiles": [
+        "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\jniLibs\\arm64-v8a\\libdms.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "F:\\develop_tool\\AndroidSDK\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "F:\\develop_tool\\AndroidSDK\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

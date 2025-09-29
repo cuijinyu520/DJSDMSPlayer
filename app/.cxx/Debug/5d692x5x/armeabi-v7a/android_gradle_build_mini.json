@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\5d692x5x\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\5d692x5x\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "dms_jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "dms_jni",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Project\\DJSDMSPlayer\\app\\build\\intermediates\\cxx\\Debug\\5d692x5x\\obj\\armeabi-v7a\\libdms_jni.so",
+      "runtimeFiles": [
+        "E:\\Project\\DJSDMSPlayer\\app\\src\\jniLibs\\armeabi-v7a\\libdms.so"
+      ]
+    }
+  }
+}

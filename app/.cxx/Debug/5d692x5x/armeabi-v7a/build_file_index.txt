@@ -1,0 +1,1 @@
+E:\Project\DJSDMSPlayer\app\src\main\cpp\CMakeLists.txt

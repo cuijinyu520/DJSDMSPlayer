@@ -1,0 +1,21 @@
+                        -HE:\Project\DJSDMSPlayer\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=F:\develop_tool\AndroidSDK\ndk\25.2.9519653
+-DCMAKE_ANDROID_NDK=F:\develop_tool\AndroidSDK\ndk\25.2.9519653
+-DCMAKE_TOOLCHAIN_FILE=F:\develop_tool\AndroidSDK\ndk\25.2.9519653\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=F:\develop_tool\AndroidSDK\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_CXX_FLAGS=-std=c++17
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\Project\DJSDMSPlayer\app\build\intermediates\cxx\Debug\5d692x5x\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\Project\DJSDMSPlayer\app\build\intermediates\cxx\Debug\5d692x5x\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_FIND_ROOT_PATH=E:\Project\DJSDMSPlayer\app\.cxx\Debug\5d692x5x\prefab\armeabi-v7a\prefab
+-BE:\Project\DJSDMSPlayer\app\.cxx\Debug\5d692x5x\armeabi-v7a
+-GNinja
+-DANDROID_STL=c++_shared
+                        Build command args: []
+                        Version: 2

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Project/DJSDMSPlayer/app/.cxx/Debug/5d692x5x/x86_64",
+  "command": "F:\\develop_tool\\AndroidSDK\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=F:/develop_tool/AndroidSDK/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Ddms_jni_EXPORTS -IE:/Project/DJSDMSPlayer/app/src/main/cpp/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\dms_jni.dir\\dms_jni_wrapper.cpp.o -c E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\dms_jni_wrapper.cpp",
+  "file": "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\dms_jni_wrapper.cpp"
+},
+{
+  "directory": "E:/Project/DJSDMSPlayer/app/.cxx/Debug/5d692x5x/x86_64",
+  "command": "F:\\develop_tool\\AndroidSDK\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=F:/develop_tool/AndroidSDK/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Ddms_jni_EXPORTS -IE:/Project/DJSDMSPlayer/app/src/main/cpp/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\dms_jni.dir\\dms_player.cpp.o -c E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\dms_player.cpp",
+  "file": "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\dms_player.cpp"
+}
+]

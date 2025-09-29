@@ -1,0 +1,3 @@
+E:/Project/DJSDMSPlayer/app/.cxx/Debug/3a4i5052/arm64-v8a/CMakeFiles/dms_jni.dir
+E:/Project/DJSDMSPlayer/app/.cxx/Debug/3a4i5052/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Project/DJSDMSPlayer/app/.cxx/Debug/3a4i5052/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "E:\\Project\\DJSDMSPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\5d692x5x\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "F:\\develop_tool\\AndroidSDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Project\\DJSDMSPlayer\\app\\.cxx\\Debug\\5d692x5x\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "dms_jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "dms_jni",
+      "abi": "x86_64",
+      "output": "E:\\Project\\DJSDMSPlayer\\app\\build\\intermediates\\cxx\\Debug\\5d692x5x\\obj\\x86_64\\libdms_jni.so",
+      "runtimeFiles": [
+        "E:\\Project\\DJSDMSPlayer\\app\\src\\jniLibs\\x86_64\\libdms.so"
+      ]
+    }
+  }
+}
